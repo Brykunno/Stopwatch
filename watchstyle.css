@@ -1,0 +1,21 @@
+button{
+    height: 30px;
+    width: 70px;
+    background-color: #2B2D42;
+    border-radius: 12px;
+    color: #F7F7F9;
+    font-family: kanit;
+    cursor:pointer;
+    
+}
+#timetext{
+    font-size: 70px;
+}
+body{
+    font-family:poppins;
+    background-color: #F7E733;
+}
+#timecontainer{
+    text-align: center;
+   
+}
